@@ -1,9 +1,7 @@
-<img src="boo.png" height="300" width="300">
+## KeyOS, but Online.
+KeyOS Online is just KeyOS, but its Online. WARNING: THIS ISNT THE SAME AS THE PLAYBOOK ITSELF
 
-## Envy, the open OS
-Envy is a environment for locked down devices, such as Chromebooks or Windows devices.
-
-## How do I access Envy?
+## How do I access KeyOS Online?
 Via [https://envyjs.github.io/os](https://envyjs.github.io/os).
 
 ## This font is nice! What is it?
@@ -11,19 +9,18 @@ This is the [DSans font](https://dsans.davidstudios.uk).
 
 ## Icons credit
 
-The icons on Envy are from the following people/organizations;
+The icons on KeyOS Online are from the following people/organizations;
 
 [Orchid Organization](https://discord.gg/mANwf4yaNr),
 
-## What can Envy do?
-**THIS PART OF THE README IS DUE TO CHANGE.**
+## What can the KeyOS environment do?
 
-  Envy can do multiple things, including:
+  The Online KeyOS environment can do multiple things, including:
   
   * Alpine Linux *(via JS/Linux!)*
   * Basic gaming (Anything HTML5/js)
   * Browse the web!
   * Customize itself!
-  * Get new apps with the Envy Store!
+  * Get new apps with the Key Store!
   * x86 Emulation! 
 
